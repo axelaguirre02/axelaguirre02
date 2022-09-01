@@ -1,16 +1,25 @@
-### Hi there 👋
+# ¡Hola a todos! :wave:
 
-<!--
-**axelaguirre02/axelaguirre02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### _Soy un desarrollador autodidacta que se está formando en el lado backend del servidor y que también tiene conocimientos en el lado frontend :man_technologist:_ 
+**_Cuento con experiencia en:_**
 
-Here are some ideas to get you started:
+* HTML
+* CSS
+* JavaScript
+* TypeScript
+* Express
+* React
+* Node
+* Python
+* Django
+* Django Rest
+* Flask
+* Tkinter
+* Git
+* SQLite
+* MySQL
+* PostgreSQL
+* MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ _Actualmente, mis objetivos son, conseguir una primera experiencia laboral y a la vez seguir adquiriendo conocimientos mediante cursos, proyectos y ejercicios ¡Cualquier propuesta o consulta será más que bienvenida! :v:_
