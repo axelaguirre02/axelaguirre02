@@ -5,6 +5,7 @@
 
 * HTML
 * CSS
+* Bootstrap
 * JavaScript
 * TypeScript
 * Express
@@ -12,7 +13,6 @@
 * Node
 * Python
 * Django
-* Django Rest
 * Flask
 * Tkinter
 * Git
